@@ -19,5 +19,8 @@ Licenciado a través de la licencia GNU GPLv3 y usando hardware abierto, garanti
 - 1x Sensor HC-SR04
 - 1x Motor Háptico (vibrador)
 - Fuente de poder (batería 9v ó batería litio reusada, dependiendo el uso)
+- 4x Jumpers Macho --> Hembra
+
+Webpage: https://enmaquint.github.io/
 
 Licensed using the GNU GPLV3 license. Copyleft all rights reversed. 
